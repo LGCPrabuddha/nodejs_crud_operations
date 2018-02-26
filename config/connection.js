@@ -24,4 +24,4 @@ function connectDatabase() {
 }
 
 module.exports = connectDatabase();
-//hgfsjgfsdgfsdfuidfisdfuis
+//Connection succesefull
